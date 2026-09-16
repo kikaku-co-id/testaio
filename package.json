@@ -1,0 +1,9 @@
+{
+  "name": "testaio",
+  "version": "1.0.0",
+  "description": "Simple Hello World website for Pterodactyl AIO testing",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
